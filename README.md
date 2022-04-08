@@ -7,4 +7,15 @@ hashlib
 ```
 pip3 install hashlib
 ```
-![图片](https://user-images.githubusercontent.com/49674960/162182598-ebbc52fb-45e7-4187-9ec9-02614b76ebd0.png)
+
+## 用法
+python3 hashpang.py -H hash
+![图片](https://user-images.githubusercontent.com/49674960/162392626-d42b5d80-62a7-4b4f-8e67-cd0dfbb408dc.png)
+
+```
+optional arguments:
+  -h, --help    show this help message and exit
+  -H , --hash   需要撞库的哈希
+  -D , --dic    指定字典(默认内置字典dic.txt)
+```
+  
